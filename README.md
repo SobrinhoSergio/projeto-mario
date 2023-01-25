@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Divulgação do trailer do novo filme do mario.
 
-- [Visite o projeto online]()
+- [Visite o projeto online](https://projeto-mario-nine.vercel.app/)
 
 ---
 
